@@ -1,0 +1,29 @@
+{% extends 'layout.twig' %}
+
+{% block body %}
+  <!-- Styles -->
+  <style>
+
+  </style>
+
+  <!-- Resources -->
+
+  <script src="//www.amcharts.com/lib/4/maps.js"></script>
+  <script src="//www.amcharts.com/lib/4/geodata/worldLow.js"></script>
+  <script src="https://www.amcharts.com/lib/4/geodata/worldLow.js"></script>
+  <script src="https://www.amcharts.com/lib/4/themes/dataviz.js"></script>
+  <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+
+  <!-- HTML -->
+  <div id="chartdiv" style="background-color: #3b3b3b;"></div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <label class="param" sytle="widht: 50vw;">Year</label>
+  <input id="lengthSlider" class="slider range-field" type="range" min="1990" max="2020" value="1990"
+         oninput="newLength()">
+  <label id="length" class="param-value">1990</label>
+
+{% endblock %}

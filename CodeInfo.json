@@ -1,0 +1,2659 @@
+[{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e19"
+  },
+  "ISO2_CODE": "CY",
+  "ISO3_CODE": "CYP",
+  "LABEL_EN": "Cyprus",
+  "LABEL_FR": "Chypre",
+  "LABEL_SP": "Chipre",
+  "Lattitude": "34.9152999848",
+  "Longitude": "32.9902425308"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e1b"
+  },
+  "ISO2_CODE": "AZ",
+  "ISO3_CODE": "AZE",
+  "LABEL_EN": "Azerbaijan",
+  "LABEL_FR": "Azerbaïdjan",
+  "LABEL_SP": "Azerbaiyán",
+  "Lattitude": "40.2891791299",
+  "Longitude": "47.5425498534"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e1c"
+  },
+  "ISO2_CODE": "AR",
+  "ISO3_CODE": "ARG",
+  "LABEL_EN": "Argentina",
+  "LABEL_FR": "Argentine",
+  "LABEL_SP": "Argentina",
+  "Lattitude": "-35.3874753432",
+  "Longitude": "-65.1782708231"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e1d"
+  },
+  "ISO2_CODE": "KS",
+  "ISO3_CODE": "KOS",
+  "LABEL_EN": "Kosovo",
+  "LABEL_FR": "Kosovo",
+  "LABEL_SP": "Kosovo",
+  "Lattitude": "42.5725834961",
+  "Longitude": "20.8735741478"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e1e"
+  },
+  "ISO2_CODE": "MS",
+  "ISO3_CODE": "MSR",
+  "LABEL_EN": "Montserrat",
+  "LABEL_FR": "Montserrat",
+  "LABEL_SP": "Montserrat",
+  "Lattitude": "16.7374766049",
+  "Longitude": "-62.1870907846"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e1f"
+  },
+  "ISO2_CODE": "WF",
+  "ISO3_CODE": "WLF",
+  "LABEL_EN": "Wallis and Futuna Islands",
+  "LABEL_FR": "Iles Wallis et Futuna",
+  "LABEL_SP": "Islas Wallis y Futuna",
+  "Lattitude": "-13.736572399",
+  "Longitude": "-177.05394523"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e20"
+  },
+  "ISO2_CODE": "BI",
+  "ISO3_CODE": "BDI",
+  "LABEL_EN": "Burundi",
+  "LABEL_FR": "Burundi",
+  "LABEL_SP": "Burundi",
+  "Lattitude": "-3.35694363826",
+  "Longitude": "29.8753249526"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e21"
+  },
+  "ISO2_CODE": "T2",
+  "ISO3_CODE": "TZ2",
+  "LABEL_EN": "Tanzania (Zanzibar)",
+  "LABEL_FR": "Tanzanie (Zanzibar)",
+  "LABEL_SP": "Tanzanía (Zanzíbar)"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e22"
+  },
+  "ISO2_CODE": "M2",
+  "ISO3_CODE": "MY2",
+  "LABEL_EN": "Malaysia: Sabah",
+  "LABEL_FR": "Malaisie: Sabah",
+  "LABEL_SP": "Malasia: Sabah"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e23"
+  },
+  "ISO2_CODE": "SG",
+  "ISO3_CODE": "SGP",
+  "LABEL_EN": "Singapore",
+  "LABEL_FR": "Singapour",
+  "LABEL_SP": "Singapur",
+  "Lattitude": "1.35861228265",
+  "Longitude": "103.812245192"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e24"
+  },
+  "ISO2_CODE": "SS",
+  "ISO3_CODE": "SSD",
+  "LABEL_EN": "South Sudan, The Republic of",
+  "LABEL_FR": "Soudan, République du",
+  "LABEL_SP": "Sudán, República de"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e25"
+  },
+  "ISO2_CODE": "TR",
+  "ISO3_CODE": "TUR",
+  "LABEL_EN": "Turkey",
+  "LABEL_FR": "Turquie",
+  "LABEL_SP": "Turquía",
+  "Lattitude": "39.0610307894",
+  "Longitude": "35.1672670068"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e26"
+  },
+  "ISO2_CODE": "CN",
+  "ISO3_CODE": "CHN",
+  "LABEL_EN": "China",
+  "LABEL_FR": "Chine",
+  "LABEL_SP": "China",
+  "Lattitude": "36.5602062669",
+  "Longitude": "103.831751251"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e27"
+  },
+  "ISO2_CODE": "LY",
+  "ISO3_CODE": "LBY",
+  "LABEL_EN": "Libyan Arab Jamahiriya",
+  "LABEL_FR": "Jamahiriya arabe libyenne",
+  "LABEL_SP": "Jamahiriya Arabe Libia",
+  "Lattitude": "27.0303685218",
+  "Longitude": "18.0095950102"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e28"
+  },
+  "ISO2_CODE": "GW",
+  "ISO3_CODE": "GNB",
+  "LABEL_EN": "Guinea-Bissau",
+  "LABEL_FR": "Guinée-Bissau",
+  "LABEL_SP": "Guinea-Bissau",
+  "Lattitude": "12.0276495691",
+  "Longitude": "-14.9767869834"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e29"
+  },
+  "ISO2_CODE": "MW",
+  "ISO3_CODE": "MWI",
+  "LABEL_EN": "Malawi",
+  "LABEL_FR": "Malawi",
+  "LABEL_SP": "Malawi",
+  "Lattitude": "-13.2171368017",
+  "Longitude": "34.2899685082"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e2a"
+  },
+  "ISO2_CODE": "BH",
+  "ISO3_CODE": "BHR",
+  "LABEL_EN": "Bahrain",
+  "LABEL_FR": "Bahreïn",
+  "LABEL_SP": "Bahrein",
+  "Lattitude": "26.0514166973",
+  "Longitude": "50.5459565371"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e2b"
+  },
+  "ISO2_CODE": "PE",
+  "ISO3_CODE": "PER",
+  "LABEL_EN": "Peru",
+  "LABEL_FR": "Pérou",
+  "LABEL_SP": "Perú",
+  "Lattitude": "-9.15437177966",
+  "Longitude": "-74.3781377726"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e2c"
+  },
+  "ISO2_CODE": "PH",
+  "ISO3_CODE": "PHL",
+  "LABEL_EN": "Philippines",
+  "LABEL_FR": "Philippines",
+  "LABEL_SP": "Filipinas",
+  "Lattitude": "11.7639871446",
+  "Longitude": "122.874831814"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e2d"
+  },
+  "ISO2_CODE": "FJ",
+  "ISO3_CODE": "FJI",
+  "LABEL_EN": "Fiji",
+  "LABEL_FR": "Fidji",
+  "LABEL_SP": "Fiji",
+  "Lattitude": "-17.4466602926",
+  "Longitude": "163.732973147"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e2e"
+  },
+  "ISO2_CODE": "JG",
+  "ISO3_CODE": "CHA",
+  "LABEL_EN": "Channel Islands",
+  "LABEL_FR": "Iles Anglo-normandes",
+  "LABEL_SP": "Islas Anglonormandas"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e2f"
+  },
+  "ISO2_CODE": "NO",
+  "ISO3_CODE": "NOR",
+  "LABEL_EN": "Norway",
+  "LABEL_FR": "Norvège",
+  "LABEL_SP": "Noruega",
+  "Lattitude": "68.7958281693",
+  "Longitude": "15.4107026868"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e30"
+  },
+  "ISO2_CODE": "CH",
+  "ISO3_CODE": "CHE",
+  "LABEL_EN": "Switzerland",
+  "LABEL_FR": "Suisse",
+  "LABEL_SP": "Suiza",
+  "Lattitude": "46.7990859221",
+  "Longitude": "8.21591266153"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e31"
+  },
+  "ISO2_CODE": "IN",
+  "ISO3_CODE": "IND",
+  "LABEL_EN": "India",
+  "LABEL_FR": "Inde",
+  "LABEL_SP": "India",
+  "Lattitude": "22.8881002778",
+  "Longitude": "79.6158935763"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e32"
+  },
+  "ISO2_CODE": "NI",
+  "ISO3_CODE": "NIC",
+  "LABEL_EN": "Nicaragua",
+  "LABEL_FR": "Nicaragua",
+  "LABEL_SP": "Nicaragua",
+  "Lattitude": "12.8454113402",
+  "Longitude": "-85.0334031776"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e33"
+  },
+  "ISO2_CODE": "TD",
+  "ISO3_CODE": "TCD",
+  "LABEL_EN": "Chad",
+  "LABEL_FR": "Tchad",
+  "LABEL_SP": "Chad",
+  "Lattitude": "15.332983539",
+  "Longitude": "18.6461890475"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e34"
+  },
+  "ISO2_CODE": "VU",
+  "ISO3_CODE": "VUT",
+  "LABEL_EN": "Vanuatu",
+  "LABEL_FR": "Vanuatu",
+  "LABEL_SP": "Vanuatu",
+  "Lattitude": "-16.2005308651",
+  "Longitude": "167.698941265"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e35"
+  },
+  "ISO2_CODE": "VE",
+  "ISO3_CODE": "VEN",
+  "LABEL_EN": "Venezuela, Bolivarian Rep. of",
+  "LABEL_FR": "Venezuela, Rép. bolivarienne du",
+  "LABEL_SP": "Venezuela, Rep. Bolivariana de",
+  "Lattitude": "7.12780748878",
+  "Longitude": "-66.1693972508"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e36"
+  },
+  "ISO2_CODE": "TN",
+  "ISO3_CODE": "TUN",
+  "LABEL_EN": "Tunisia",
+  "LABEL_FR": "Tunisie",
+  "LABEL_SP": "Túnez",
+  "Lattitude": "34.1194945806",
+  "Longitude": "9.55488510583"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e37"
+  },
+  "ISO2_CODE": "LB",
+  "ISO3_CODE": "LBN",
+  "LABEL_EN": "Lebanon",
+  "LABEL_FR": "Liban",
+  "LABEL_SP": "Líbano",
+  "Lattitude": "33.9207881471",
+  "Longitude": "35.8799982721"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e38"
+  },
+  "ISO2_CODE": "SM",
+  "ISO3_CODE": "SMR",
+  "LABEL_EN": "San Marino",
+  "LABEL_FR": "Saint-Marin",
+  "LABEL_SP": "San Marino",
+  "Lattitude": "43.9354661874",
+  "Longitude": "12.4414307355"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e39"
+  },
+  "ISO2_CODE": "ST",
+  "ISO3_CODE": "STP",
+  "LABEL_EN": "Sao Tome and Principe",
+  "LABEL_FR": "Sao Tomé-et-Principe",
+  "LABEL_SP": "Santo Tomé y Príncipe",
+  "Lattitude": "0.441942409904",
+  "Longitude": "6.72420009882"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e3a"
+  },
+  "ISO2_CODE": "IR",
+  "ISO3_CODE": "IRN",
+  "LABEL_EN": "Iran, Islamic Rep. of",
+  "LABEL_FR": "Iran, Rép. islamique d'",
+  "LABEL_SP": "Irán, Rep. Islámica del",
+  "Lattitude": "32.5705325864",
+  "Longitude": "54.2771108547"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e3b"
+  },
+  "ISO2_CODE": "SN",
+  "ISO3_CODE": "SEN",
+  "LABEL_EN": "Senegal",
+  "LABEL_FR": "Sénégal",
+  "LABEL_SP": "Senegal",
+  "Lattitude": "14.3678611322",
+  "Longitude": "-14.4712861299"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e3c"
+  },
+  "ISO2_CODE": "NU",
+  "ISO3_CODE": "NIU",
+  "LABEL_EN": "Niue",
+  "LABEL_FR": "Nioué",
+  "LABEL_SP": "Niue",
+  "Lattitude": "-19.0493506258",
+  "Longitude": "-169.868910274"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e3d"
+  },
+  "ISO2_CODE": "YE",
+  "ISO3_CODE": "YEM",
+  "LABEL_EN": "Yemen",
+  "LABEL_FR": "Yémen",
+  "LABEL_SP": "Yemen",
+  "Lattitude": "15.9052492416",
+  "Longitude": "47.5906008569"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e3e"
+  },
+  "ISO2_CODE": "M1",
+  "ISO3_CODE": "MY1",
+  "LABEL_EN": "Malaysia: Peninsular Malaysia",
+  "LABEL_FR": "Malaisie: Malaisie péninsulaire",
+  "LABEL_SP": "Malasia: Malasia Peninsular"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e3f"
+  },
+  "ISO2_CODE": "SR",
+  "ISO3_CODE": "SUR",
+  "LABEL_EN": "Suriname",
+  "LABEL_FR": "Suriname",
+  "LABEL_SP": "Suriname",
+  "Lattitude": "4.13105778556",
+  "Longitude": "-55.9111551618"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e40"
+  },
+  "ISO2_CODE": "ER",
+  "ISO3_CODE": "ERI",
+  "LABEL_EN": "Eritrea",
+  "LABEL_FR": "Erythrée",
+  "LABEL_SP": "Eritrea",
+  "Lattitude": "15.3574559287",
+  "Longitude": "38.8534296499"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e41"
+  },
+  "ISO2_CODE": "T1",
+  "ISO3_CODE": "TZ1",
+  "LABEL_EN": "Tanzania (Tanganyika)",
+  "LABEL_FR": "Tanzanie (Tanganyika)",
+  "LABEL_SP": "Tanzanía (Tangañika)"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e42"
+  },
+  "ISO2_CODE": "BA",
+  "ISO3_CODE": "BIH",
+  "LABEL_EN": "Bosnia and Herzegovina",
+  "LABEL_FR": "Bosnie-Herzégovine",
+  "LABEL_SP": "Bosnia y Herzegovina",
+  "Lattitude": "44.1715041395",
+  "Longitude": "17.7734052675"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e43"
+  },
+  "ISO2_CODE": "NP",
+  "ISO3_CODE": "NPL",
+  "LABEL_EN": "Nepal",
+  "LABEL_FR": "Népal",
+  "LABEL_SP": "Nepal",
+  "Lattitude": "28.2479439867",
+  "Longitude": "83.9162472404"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e44"
+  },
+  "ISO2_CODE": "FO",
+  "ISO3_CODE": "FRO",
+  "LABEL_EN": "Faeroe Islands",
+  "LABEL_FR": "Iles Féroé",
+  "LABEL_SP": "Islas Feroe",
+  "Lattitude": "62.0728461388",
+  "Longitude": "-6.87192063785"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e45"
+  },
+  "ISO2_CODE": "UY",
+  "ISO3_CODE": "URY",
+  "LABEL_EN": "Uruguay",
+  "LABEL_FR": "Uruguay",
+  "LABEL_SP": "Uruguay",
+  "Lattitude": "-32.7983956504",
+  "Longitude": "-56.0171416599"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e46"
+  },
+  "ISO2_CODE": "SO",
+  "ISO3_CODE": "SOM",
+  "LABEL_EN": "Somalia",
+  "LABEL_FR": "Somalie",
+  "LABEL_SP": "Somalia",
+  "Lattitude": "4.74860896352",
+  "Longitude": "45.7059511133"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e47"
+  },
+  "ISO2_CODE": "MG",
+  "ISO3_CODE": "MDG",
+  "LABEL_EN": "Madagascar",
+  "LABEL_FR": "Madagascar",
+  "LABEL_SP": "Madagascar",
+  "Lattitude": "-19.3736785722",
+  "Longitude": "46.7058236619"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e48"
+  },
+  "ISO2_CODE": "MH",
+  "ISO3_CODE": "MHL",
+  "LABEL_EN": "Marshall Islands",
+  "LABEL_FR": "Iles Marshall",
+  "LABEL_SP": "Islas Marshall",
+  "Lattitude": "7.09521237283",
+  "Longitude": "170.102306798"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e49"
+  },
+  "ISO2_CODE": "PG",
+  "ISO3_CODE": "PNG",
+  "LABEL_EN": "Papua New Guinea",
+  "LABEL_FR": "Papouasie-Nouvelle-Guinée",
+  "LABEL_SP": "Papua Nueva Guinea",
+  "Lattitude": "-6.47028522217",
+  "Longitude": "145.231212592"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e4a"
+  },
+  "ISO2_CODE": "TZ",
+  "ISO3_CODE": "TZA",
+  "LABEL_EN": "Tanzania, United Republic of",
+  "LABEL_FR": "Tanzanie, République-Unie de",
+  "LABEL_SP": "Tanzanía, República Unida de",
+  "Lattitude": "-6.27504483039",
+  "Longitude": "34.8134676243"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e4b"
+  },
+  "ISO2_CODE": "CM",
+  "ISO3_CODE": "CMR",
+  "LABEL_EN": "Cameroon",
+  "LABEL_FR": "Cameroun",
+  "LABEL_SP": "Camerún",
+  "Lattitude": "5.69302138386",
+  "Longitude": "12.7370844447"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e4c"
+  },
+  "ISO2_CODE": "HN",
+  "ISO3_CODE": "HND",
+  "LABEL_EN": "Honduras",
+  "LABEL_FR": "Honduras",
+  "LABEL_SP": "Honduras",
+  "Lattitude": "14.8207817676",
+  "Longitude": "-86.6254207576"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e4d"
+  },
+  "ISO2_CODE": "SK",
+  "ISO3_CODE": "SVK",
+  "LABEL_EN": "Slovakia",
+  "LABEL_FR": "Slovaquie",
+  "LABEL_SP": "Eslovaquia",
+  "Lattitude": "48.7050534694",
+  "Longitude": "19.4806052302"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e4e"
+  },
+  "ISO2_CODE": "KZ",
+  "ISO3_CODE": "KAZ",
+  "LABEL_EN": "Kazakhstan",
+  "LABEL_FR": "Kazakhstan",
+  "LABEL_SP": "Kazajstán",
+  "Lattitude": "48.1604671091",
+  "Longitude": "67.2955171321"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e4f"
+  },
+  "ISO2_CODE": "ET",
+  "ISO3_CODE": "ETH",
+  "LABEL_EN": "Ethiopia",
+  "LABEL_FR": "Ethiopie",
+  "LABEL_SP": "Etiopía",
+  "Lattitude": "8.62300299107",
+  "Longitude": "39.600671832"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e50"
+  },
+  "ISO2_CODE": "DM",
+  "ISO3_CODE": "DMA",
+  "LABEL_EN": "Dominica",
+  "LABEL_FR": "Dominique",
+  "LABEL_SP": "Dominica",
+  "Lattitude": "15.4372261204",
+  "Longitude": "-61.3569313883"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e51"
+  },
+  "ISO2_CODE": "TJ",
+  "ISO3_CODE": "TJK",
+  "LABEL_EN": "Tajikistan",
+  "LABEL_FR": "Tadjikistan",
+  "LABEL_SP": "Tayikistán",
+  "Lattitude": "38.5298999117",
+  "Longitude": "71.0158664683"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e52"
+  },
+  "ISO2_CODE": "DJ",
+  "ISO3_CODE": "DJI",
+  "LABEL_EN": "Djibouti",
+  "LABEL_FR": "Djibouti",
+  "LABEL_SP": "Djibouti",
+  "Lattitude": "11.7504923494",
+  "Longitude": "42.5670039348"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e53"
+  },
+  "ISO2_CODE": "AT",
+  "ISO3_CODE": "AUT",
+  "LABEL_EN": "Austria",
+  "LABEL_FR": "Autriche",
+  "LABEL_SP": "Austria",
+  "Lattitude": "47.5857571625",
+  "Longitude": "14.1305444711"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e54"
+  },
+  "ISO2_CODE": "KG",
+  "ISO3_CODE": "KGZ",
+  "LABEL_EN": "Kyrgyzstan",
+  "LABEL_FR": "Kirghizistan",
+  "LABEL_SP": "Kirguistán",
+  "Lattitude": "41.4618305412",
+  "Longitude": "74.5411364681"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e55"
+  },
+  "ISO2_CODE": "SY",
+  "ISO3_CODE": "SYR",
+  "LABEL_EN": "Syrian Arab Republic",
+  "LABEL_FR": "République arabe syrienne",
+  "LABEL_SP": "República Arabe Siria",
+  "Lattitude": "35.022758145",
+  "Longitude": "38.504432306"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e56"
+  },
+  "ISO2_CODE": "MO",
+  "ISO3_CODE": "MAC",
+  "LABEL_EN": "Macau, China",
+  "LABEL_FR": "Macao, Chine",
+  "LABEL_SP": "Macao, China",
+  "Lattitude": "22.158366139",
+  "Longitude": "113.549817657"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e57"
+  },
+  "ISO2_CODE": "SV",
+  "ISO3_CODE": "SLV",
+  "LABEL_EN": "El Salvador",
+  "LABEL_FR": "El Salvador",
+  "LABEL_SP": "El Salvador",
+  "Lattitude": "13.7358746054",
+  "Longitude": "-88.871140054"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e58"
+  },
+  "ISO2_CODE": "MV",
+  "ISO3_CODE": "MDV",
+  "LABEL_EN": "Maldives",
+  "LABEL_FR": "Maldives",
+  "LABEL_SP": "Maldivas",
+  "Lattitude": "3.86442047724",
+  "Longitude": "73.3085660176"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e59"
+  },
+  "ISO2_CODE": "KP",
+  "ISO3_CODE": "PRK",
+  "LABEL_EN": "Korea, Dem. People's Rep. of",
+  "LABEL_FR": "Corée, Rép. pop. dém. de",
+  "LABEL_SP": "Corea, Rep. Pop. Dem. de",
+  "Lattitude": "40.1508079459",
+  "Longitude": "127.184350323"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e5a"
+  },
+  "ISO2_CODE": "NE",
+  "ISO3_CODE": "NER",
+  "LABEL_EN": "Niger",
+  "LABEL_FR": "Niger",
+  "LABEL_SP": "Níger",
+  "Lattitude": "17.4187581641",
+  "Longitude": "9.3857412628"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e5b"
+  },
+  "ISO2_CODE": "BG",
+  "ISO3_CODE": "BGR",
+  "LABEL_EN": "Bulgaria",
+  "LABEL_FR": "Bulgarie",
+  "LABEL_SP": "Bulgaria",
+  "Lattitude": "42.7684902365",
+  "Longitude": "25.2177412805"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e5c"
+  },
+  "ISO2_CODE": "AE",
+  "ISO3_CODE": "ARE",
+  "LABEL_EN": "United Arab Emirates",
+  "LABEL_FR": "Emirats arabes unis",
+  "LABEL_SP": "Emiratos Arabes Unidos",
+  "Lattitude": "23.9082234509",
+  "Longitude": "54.3037299326"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e5d"
+  },
+  "ISO2_CODE": "BN",
+  "ISO3_CODE": "BRN",
+  "LABEL_EN": "Brunei Darussalam",
+  "LABEL_FR": "Brunéi Darussalam",
+  "LABEL_SP": "Brunei Darussalam",
+  "Lattitude": "4.51679953771",
+  "Longitude": "114.727238056"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e5e"
+  },
+  "ISO2_CODE": "NL",
+  "ISO3_CODE": "NLD",
+  "LABEL_EN": "Netherlands",
+  "LABEL_FR": "Pays-Bas",
+  "LABEL_SP": "Países Bajos",
+  "Lattitude": "52.0724168637",
+  "Longitude": "5.22159177132"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e5f"
+  },
+  "ISO2_CODE": "SC",
+  "ISO3_CODE": "SYC",
+  "LABEL_EN": "Seychelles",
+  "LABEL_FR": "Seychelles",
+  "LABEL_SP": "Seychelles",
+  "Lattitude": "-6.53294945625",
+  "Longitude": "51.9754508474"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e60"
+  },
+  "ISO2_CODE": "KH",
+  "ISO3_CODE": "KHM",
+  "LABEL_EN": "Cambodia",
+  "LABEL_FR": "Cambodge",
+  "LABEL_SP": "Camboya",
+  "Lattitude": "12.7158741325",
+  "Longitude": "104.902961879"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e61"
+  },
+  "ISO2_CODE": "SZ",
+  "ISO3_CODE": "SWZ",
+  "LABEL_EN": "Swaziland",
+  "LABEL_FR": "Swaziland",
+  "LABEL_SP": "Swazilandia",
+  "Lattitude": "-26.5616993839",
+  "Longitude": "31.4801350162"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e62"
+  },
+  "ISO2_CODE": "BB",
+  "ISO3_CODE": "BRB",
+  "LABEL_EN": "Barbados",
+  "LABEL_FR": "Barbade",
+  "LABEL_SP": "Barbados",
+  "Lattitude": "13.1805182958",
+  "Longitude": "-59.5607434508"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e63"
+  },
+  "ISO2_CODE": "SD",
+  "ISO3_CODE": "SDN",
+  "LABEL_EN": "Sudan, The Republic of",
+  "LABEL_FR": "Soudan, République du",
+  "LABEL_SP": "Sudán, República de",
+  "Lattitude": "15.9868153397",
+  "Longitude": "29.9397656232"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e64"
+  },
+  "ISO2_CODE": "D1",
+  "ISO3_CODE": "DE1",
+  "LABEL_EN": "Germany, The former German Dem. Rep.",
+  "LABEL_FR": "Allemagne, Ancienne Rép. dém. allemande",
+  "LABEL_SP": "Alemania, Antigua Rep. Dem. Alemana"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e65"
+  },
+  "ISO2_CODE": "RU",
+  "ISO3_CODE": "RUS",
+  "LABEL_EN": "Russian Federation",
+  "LABEL_FR": "Russie, Fédération de",
+  "LABEL_SP": "Rusia, Federación de",
+  "Lattitude": "61.9843417375",
+  "Longitude": "96.6934557675"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e66"
+  },
+  "ISO2_CODE": "VG",
+  "ISO3_CODE": "VGB",
+  "LABEL_EN": "British Virgin Islands",
+  "LABEL_FR": "Iles Vierges britanniques",
+  "LABEL_SP": "Islas Vírgenes británicas",
+  "Lattitude": "18.5095025525",
+  "Longitude": "-64.502943619"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e67"
+  },
+  "ISO2_CODE": "CF",
+  "ISO3_CODE": "CAF",
+  "LABEL_EN": "Central African Republic",
+  "LABEL_FR": "République centrafricaine",
+  "LABEL_SP": "República Centroafricana",
+  "Lattitude": "6.56632290607",
+  "Longitude": "20.4648268732"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e68"
+  },
+  "ISO2_CODE": "PF",
+  "ISO3_CODE": "PYF",
+  "LABEL_EN": "French Polynesia",
+  "LABEL_FR": "Polynésie française",
+  "LABEL_SP": "Polinesia Francesa",
+  "Lattitude": "-15.1765651812",
+  "Longitude": "-145.038256856"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e69"
+  },
+  "ISO2_CODE": "EC",
+  "ISO3_CODE": "ECU",
+  "LABEL_EN": "Ecuador",
+  "LABEL_FR": "Equateur",
+  "LABEL_SP": "Ecuador",
+  "Lattitude": "-1.42637018649",
+  "Longitude": "-78.7712502025"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e6a"
+  },
+  "ISO2_CODE": "NG",
+  "ISO3_CODE": "NGA",
+  "LABEL_EN": "Nigeria",
+  "LABEL_FR": "Nigéria",
+  "LABEL_SP": "Nigeria",
+  "Lattitude": "9.59507580848",
+  "Longitude": "8.09141781395"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e6b"
+  },
+  "ISO2_CODE": "GA",
+  "ISO3_CODE": "GAB",
+  "LABEL_EN": "Gabon",
+  "LABEL_FR": "Gabon",
+  "LABEL_SP": "Gabón",
+  "Lattitude": "-0.591692774419",
+  "Longitude": "11.7893224204"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e6c"
+  },
+  "ISO2_CODE": "KW",
+  "ISO3_CODE": "KWT",
+  "LABEL_EN": "Kuwait",
+  "LABEL_FR": "Koweït",
+  "LABEL_SP": "Kuwait",
+  "Lattitude": "29.3396377429",
+  "Longitude": "47.5943688371"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e6d"
+  },
+  "ISO2_CODE": "TK",
+  "ISO3_CODE": "TKL",
+  "LABEL_EN": "Tokelau",
+  "LABEL_FR": "Tokélaou",
+  "LABEL_SP": "Tokelau"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e6e"
+  },
+  "ISO2_CODE": "TW",
+  "ISO3_CODE": "TWN",
+  "LABEL_EN": "Taiwan, China",
+  "LABEL_FR": "Taïwan, Chine",
+  "LABEL_SP": "Taiwan, China",
+  "Lattitude": "23.753006961",
+  "Longitude": "120.950311941"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e6f"
+  },
+  "ISO2_CODE": "MM",
+  "ISO3_CODE": "MMR",
+  "LABEL_EN": "Myanmar",
+  "LABEL_FR": "Myanmar",
+  "LABEL_SP": "Myanmar",
+  "Lattitude": "21.1683805571",
+  "Longitude": "96.4892839365"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e70"
+  },
+  "ISO2_CODE": "KY",
+  "ISO3_CODE": "CYM",
+  "LABEL_EN": "Cayman Islands",
+  "LABEL_FR": "Iles Caïmanes",
+  "LABEL_SP": "Islas Caimán",
+  "Lattitude": "19.4287484011",
+  "Longitude": "-80.8675232073"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e71"
+  },
+  "ISO2_CODE": "NF",
+  "ISO3_CODE": "NFK",
+  "LABEL_EN": "Norfolk Island",
+  "LABEL_FR": "Ile Norfolk",
+  "LABEL_SP": "Isla Norfolk",
+  "Lattitude": "-29.0360351114",
+  "Longitude": "167.954835874"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e72"
+  },
+  "ISO2_CODE": "CI",
+  "ISO3_CODE": "CIV",
+  "LABEL_EN": "Côte d'Ivoire",
+  "LABEL_FR": "Côte d'Ivoire",
+  "LABEL_SP": "Côte d'Ivoire",
+  "Lattitude": "7.62813772584",
+  "Longitude": "-5.56900779845"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e73"
+  },
+  "ISO2_CODE": "CZ",
+  "ISO3_CODE": "CZE",
+  "LABEL_EN": "Czech Republic",
+  "LABEL_FR": "République tchèque",
+  "LABEL_SP": "República Checa",
+  "Lattitude": "49.7324459146",
+  "Longitude": "15.3140847769"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e74"
+  },
+  "ISO2_CODE": "MP",
+  "ISO3_CODE": "MNP",
+  "LABEL_EN": "Northern Mariana Islands",
+  "LABEL_FR": "Iles Mariannes du Nord",
+  "LABEL_SP": "Islas Marianas del Norte",
+  "Lattitude": "16.2212036776",
+  "Longitude": "145.602081257"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e75"
+  },
+  "ISO2_CODE": "SA",
+  "ISO3_CODE": "SAU",
+  "LABEL_EN": "Saudi Arabia",
+  "LABEL_FR": "Arabie saoudite",
+  "LABEL_SP": "Arabia Saudita",
+  "Lattitude": "24.1219726043",
+  "Longitude": "44.5372436892"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e76"
+  },
+  "ISO2_CODE": "IM",
+  "ISO3_CODE": "IMN",
+  "LABEL_EN": "Isle of Man",
+  "LABEL_FR": "Ile de Man",
+  "LABEL_SP": "Isla de Man",
+  "Lattitude": "54.2282504929",
+  "Longitude": "-4.53421810603"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e77"
+  },
+  "ISO2_CODE": "CO",
+  "ISO3_CODE": "COL",
+  "LABEL_EN": "Colombia",
+  "LABEL_FR": "Colombie",
+  "LABEL_SP": "Colombia",
+  "Lattitude": "3.90962199445",
+  "Longitude": "-73.0836676571"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e78"
+  },
+  "ISO2_CODE": "AL",
+  "ISO3_CODE": "ALB",
+  "LABEL_EN": "Albania",
+  "LABEL_FR": "Albanie",
+  "LABEL_SP": "Albania",
+  "Lattitude": "41.1423824499",
+  "Longitude": "20.0536337871"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e79"
+  },
+  "ISO2_CODE": "PA",
+  "ISO3_CODE": "PAN",
+  "LABEL_EN": "Panama",
+  "LABEL_FR": "Panama",
+  "LABEL_SP": "Panamá",
+  "Lattitude": "8.51447641709",
+  "Longitude": "-80.1212207136"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e7a"
+  },
+  "ISO2_CODE": "BM",
+  "ISO3_CODE": "BMU",
+  "LABEL_EN": "Bermuda",
+  "LABEL_FR": "Bermudes",
+  "LABEL_SP": "Bermudas",
+  "Lattitude": "32.3128402132",
+  "Longitude": "-64.758030158"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e7b"
+  },
+  "ISO2_CODE": "MY",
+  "ISO3_CODE": "MYS",
+  "LABEL_EN": "Malaysia",
+  "LABEL_FR": "Malaisie",
+  "LABEL_SP": "Malasia",
+  "Lattitude": "3.79222522497",
+  "Longitude": "109.698582988"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e7c"
+  },
+  "ISO2_CODE": "Y1",
+  "ISO3_CODE": "YE1",
+  "LABEL_EN": "Yemen, The former Arab Rep. of",
+  "LABEL_FR": "Yémen, Ancienne Rép. arabe du",
+  "LABEL_SP": "Yemen, Antigua Rep. Arabe del"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e7d"
+  },
+  "ISO2_CODE": "GQ",
+  "ISO3_CODE": "GNQ",
+  "LABEL_EN": "Equatorial Guinea",
+  "LABEL_FR": "Guinée équatoriale",
+  "LABEL_SP": "Guinea Ecuatorial",
+  "Lattitude": "1.7072413441",
+  "Longitude": "10.333378379"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e7e"
+  },
+  "ISO2_CODE": "SL",
+  "ISO3_CODE": "SLE",
+  "LABEL_EN": "Sierra Leone",
+  "LABEL_FR": "Sierra Leone",
+  "LABEL_SP": "Sierra Leona",
+  "Lattitude": "8.56342159427",
+  "Longitude": "-11.7947178851"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e7f"
+  },
+  "ISO2_CODE": "FR",
+  "ISO3_CODE": "FRA",
+  "LABEL_EN": "France",
+  "LABEL_FR": "France",
+  "LABEL_SP": "Francia",
+  "Lattitude": "42.1820291785",
+  "Longitude": "-2.75442214946"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e80"
+  },
+  "ISO2_CODE": "MN",
+  "ISO3_CODE": "MNG",
+  "LABEL_EN": "Mongolia",
+  "LABEL_FR": "Mongolie",
+  "LABEL_SP": "Mongolia",
+  "Lattitude": "46.825774899",
+  "Longitude": "103.055990959"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e81"
+  },
+  "ISO2_CODE": "PT",
+  "ISO3_CODE": "PRT",
+  "LABEL_EN": "Portugal",
+  "LABEL_FR": "Portugal",
+  "LABEL_SP": "Portugal",
+  "Lattitude": "39.5879315668",
+  "Longitude": "-8.58679773073"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e82"
+  },
+  "ISO2_CODE": "LA",
+  "ISO3_CODE": "LAO",
+  "LABEL_EN": "Lao People's Dem. Rep.",
+  "LABEL_FR": "République dém. pop. lao",
+  "LABEL_SP": "República Dem. Pop. Lao",
+  "Lattitude": "18.5027254609",
+  "Longitude": "103.73756404"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e83"
+  },
+  "ISO2_CODE": "NZ",
+  "ISO3_CODE": "NZL",
+  "LABEL_EN": "New Zealand",
+  "LABEL_FR": "Nouvelle-Zélande",
+  "LABEL_SP": "Nueva Zelandia",
+  "Lattitude": "-41.8294535363",
+  "Longitude": "171.462581036"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e84"
+  },
+  "ISO2_CODE": "MZ",
+  "ISO3_CODE": "MOZ",
+  "LABEL_EN": "Mozambique",
+  "LABEL_FR": "Mozambique",
+  "LABEL_SP": "Mozambique",
+  "Lattitude": "-17.2694407361",
+  "Longitude": "35.5381045309"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e85"
+  },
+  "ISO2_CODE": "KN",
+  "ISO3_CODE": "KNA",
+  "LABEL_EN": "Saint Kitts and Nevis",
+  "LABEL_FR": "Saint-Kitts-et-Nevis",
+  "LABEL_SP": "Saint Kitts y Nevis",
+  "Lattitude": "17.2733218794",
+  "Longitude": "-62.7004618885"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e86"
+  },
+  "ISO2_CODE": "HU",
+  "ISO3_CODE": "HUN",
+  "LABEL_EN": "Hungary",
+  "LABEL_FR": "Hongrie",
+  "LABEL_SP": "Hungría",
+  "Lattitude": "47.1631484858",
+  "Longitude": "19.3963546422"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e87"
+  },
+  "ISO2_CODE": "CD",
+  "ISO3_CODE": "COD",
+  "LABEL_EN": "Congo, Democratic Republic of the",
+  "LABEL_FR": "Congo, Rép. dém. du",
+  "LABEL_SP": "Congo, Rep. Dem. del",
+  "Lattitude": "-2.87983051228",
+  "Longitude": "23.645093681"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e88"
+  },
+  "ISO2_CODE": "BO",
+  "ISO3_CODE": "BOL",
+  "LABEL_EN": "Bolivia",
+  "LABEL_FR": "Bolivie",
+  "LABEL_SP": "Bolivia",
+  "Lattitude": "-16.7067160673",
+  "Longitude": "-64.6849214117"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e89"
+  },
+  "ISO2_CODE": "BW",
+  "ISO3_CODE": "BWA",
+  "LABEL_EN": "Botswana",
+  "LABEL_FR": "Botswana",
+  "LABEL_SP": "Botswana",
+  "Lattitude": "-22.1861123248",
+  "Longitude": "23.7991035648"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e8a"
+  },
+  "ISO2_CODE": "GI",
+  "ISO3_CODE": "GIB",
+  "LABEL_EN": "Gibraltar",
+  "LABEL_FR": "Gibraltar",
+  "LABEL_SP": "Gibraltar",
+  "Lattitude": "36.1298020979",
+  "Longitude": "-5.34697922918"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e8b"
+  },
+  "ISO2_CODE": "SE",
+  "ISO3_CODE": "SWE",
+  "LABEL_EN": "Sweden",
+  "LABEL_FR": "Suède",
+  "LABEL_SP": "Suecia",
+  "Lattitude": "62.777378402",
+  "Longitude": "16.7542843545"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e8c"
+  },
+  "ISO2_CODE": "D3",
+  "ISO3_CODE": "DE3",
+  "LABEL_EN": "Germany, 5 new Länder and Berlin (East)",
+  "LABEL_FR": "Allemagne, 5 nouveaux Länder et Berlin-Est",
+  "LABEL_SP": "Alemania, 5 nuevos Länder y Berlin Este"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e8d"
+  },
+  "ISO2_CODE": "PK",
+  "ISO3_CODE": "PAK",
+  "LABEL_EN": "Pakistan",
+  "LABEL_FR": "Pakistan",
+  "LABEL_SP": "Pakistán",
+  "Lattitude": "29.9485239896",
+  "Longitude": "69.3410760793"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e8e"
+  },
+  "ISO2_CODE": "MT",
+  "ISO3_CODE": "MLT",
+  "LABEL_EN": "Malta",
+  "LABEL_FR": "Malte",
+  "LABEL_SP": "Malta",
+  "Lattitude": "35.9200811084",
+  "Longitude": "14.4043840372"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e8f"
+  },
+  "ISO2_CODE": "ZM",
+  "ISO3_CODE": "ZMB",
+  "LABEL_EN": "Zambia",
+  "LABEL_FR": "Zambie",
+  "LABEL_SP": "Zambia",
+  "Lattitude": "-13.4601310731",
+  "Longitude": "27.7743026217"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e90"
+  },
+  "ISO2_CODE": "FK",
+  "ISO3_CODE": "FLK",
+  "LABEL_EN": "Falkland Islands (Malvinas)",
+  "LABEL_FR": "Iles Falkland (Malvinas)",
+  "LABEL_SP": "Islas Malvinas (Falkland)",
+  "Lattitude": "-51.733493496",
+  "Longitude": "-59.3746165316"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e91"
+  },
+  "ISO2_CODE": "BZ",
+  "ISO3_CODE": "BLZ",
+  "LABEL_EN": "Belize",
+  "LABEL_FR": "Belize",
+  "LABEL_SP": "Belice",
+  "Lattitude": "17.2076202853",
+  "Longitude": "-88.6947664472"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e92"
+  },
+  "ISO2_CODE": "IE",
+  "ISO3_CODE": "IRL",
+  "LABEL_EN": "Ireland",
+  "LABEL_FR": "Irlande",
+  "LABEL_SP": "Irlanda",
+  "Lattitude": "53.177727454",
+  "Longitude": "-8.14541782157"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e93"
+  },
+  "ISO2_CODE": "DZ",
+  "ISO3_CODE": "DZA",
+  "LABEL_EN": "Algeria",
+  "LABEL_FR": "Algérie",
+  "LABEL_SP": "Argelia",
+  "Lattitude": "28.1489523417",
+  "Longitude": "2.65318018402"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e94"
+  },
+  "ISO2_CODE": "BR",
+  "ISO3_CODE": "BRA",
+  "LABEL_EN": "Brazil",
+  "LABEL_FR": "Brésil",
+  "LABEL_SP": "Brasil",
+  "Lattitude": "-10.7811447641",
+  "Longitude": "-53.0925364784"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e95"
+  },
+  "ISO2_CODE": "RO",
+  "ISO3_CODE": "ROU",
+  "LABEL_EN": "Romania",
+  "LABEL_FR": "Roumanie",
+  "LABEL_SP": "Rumania",
+  "Lattitude": "45.8534292955",
+  "Longitude": "24.9730878059"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e96"
+  },
+  "ISO2_CODE": "BS",
+  "ISO3_CODE": "BHS",
+  "LABEL_EN": "Bahamas",
+  "LABEL_FR": "Bahamas",
+  "LABEL_SP": "Bahamas",
+  "Lattitude": "24.2318875048",
+  "Longitude": "-76.5579510932"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e97"
+  },
+  "ISO2_CODE": "GL",
+  "ISO3_CODE": "GRL",
+  "LABEL_EN": "Greenland",
+  "LABEL_FR": "Groenland",
+  "LABEL_SP": "Groenlandia",
+  "Lattitude": "74.7364293388",
+  "Longitude": "-41.3458712652"
+},{
+  "_id": {
+    "$oid": "5ee7abc268ab7f0ec43a8e98"
+  },
+  "ISO2_CODE": "BT",
+  "ISO3_CODE": "BTN",
+  "LABEL_EN": "Bhutan",
+  "LABEL_FR": "Bhoutan",
+  "LABEL_SP": "Bhután",
+  "Lattitude": "27.4216088934",
+  "Longitude": "90.4047032909"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8e99"
+  },
+  "ISO2_CODE": "CA",
+  "ISO3_CODE": "CAN",
+  "LABEL_EN": "Canada",
+  "LABEL_FR": "Canada",
+  "LABEL_SP": "Canadá",
+  "Lattitude": "61.3765600742",
+  "Longitude": "-98.2945373672"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8e9a"
+  },
+  "ISO2_CODE": "JO",
+  "ISO3_CODE": "JOR",
+  "LABEL_EN": "Jordan",
+  "LABEL_FR": "Jordanie",
+  "LABEL_SP": "Jordania",
+  "Lattitude": "31.2455331501",
+  "Longitude": "36.771219291"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8e9b"
+  },
+  "ISO2_CODE": "PW",
+  "ISO3_CODE": "PLW",
+  "LABEL_EN": "Palau",
+  "LABEL_FR": "Palau",
+  "LABEL_SP": "Palau",
+  "Lattitude": "7.20355530152",
+  "Longitude": "134.352739769"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8e9c"
+  },
+  "ISO2_CODE": "WS",
+  "ISO3_CODE": "WSM",
+  "LABEL_EN": "Samoa",
+  "LABEL_FR": "Samoa",
+  "LABEL_SP": "Samoa",
+  "Lattitude": "-13.7547051921",
+  "Longitude": "-172.16175453"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8e9d"
+  },
+  "ISO2_CODE": "GF",
+  "ISO3_CODE": "GUF",
+  "LABEL_EN": "French Guiana",
+  "LABEL_FR": "Guyane française",
+  "LABEL_SP": "Guayana Francesa"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8e9e"
+  },
+  "ISO2_CODE": "ML",
+  "ISO3_CODE": "MLI",
+  "LABEL_EN": "Mali",
+  "LABEL_FR": "Mali",
+  "LABEL_SP": "Malí",
+  "Lattitude": "17.3446450476",
+  "Longitude": "-3.5394321557"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8e9f"
+  },
+  "ISO2_CODE": "TM",
+  "ISO3_CODE": "TKM",
+  "LABEL_EN": "Turkmenistan",
+  "LABEL_FR": "Turkménistan",
+  "LABEL_SP": "Turkmenistán",
+  "Lattitude": "39.11575805",
+  "Longitude": "59.3761877275"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea0"
+  },
+  "ISO2_CODE": "AS",
+  "ISO3_CODE": "ASM",
+  "LABEL_EN": "American Samoa",
+  "LABEL_FR": "Samoa américaines",
+  "LABEL_SP": "Samoa Americana",
+  "Lattitude": "-14.2610693254",
+  "Longitude": "-170.40913057"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea1"
+  },
+  "ISO2_CODE": "D2",
+  "ISO3_CODE": "DE2",
+  "LABEL_EN": "Germany, Fed. Rep. of before 3.10.1990",
+  "LABEL_FR": "Allemagne, Rép. Féd. avant le 3.10.1990",
+  "LABEL_SP": "Alemania, Rep. Fed. antes del 3.10.1990"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea2"
+  },
+  "ISO2_CODE": "PR",
+  "ISO3_CODE": "PRI",
+  "LABEL_EN": "Puerto Rico",
+  "LABEL_FR": "Porto Rico",
+  "LABEL_SP": "Puerto Rico",
+  "Lattitude": "18.2238457179",
+  "Longitude": "-66.4663845764"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea3"
+  },
+  "ISO2_CODE": "EH",
+  "ISO3_CODE": "ESH",
+  "LABEL_EN": "Western Sahara",
+  "LABEL_FR": "Sahara occidental",
+  "LABEL_SP": "Sahara Occidental"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea4"
+  },
+  "ISO2_CODE": "HT",
+  "ISO3_CODE": "HTI",
+  "LABEL_EN": "Haiti",
+  "LABEL_FR": "Haïti",
+  "LABEL_SP": "Haití",
+  "Lattitude": "18.9384526075",
+  "Longitude": "-72.6903857021"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea5"
+  },
+  "ISO2_CODE": "GE",
+  "ISO3_CODE": "GEO",
+  "LABEL_EN": "Georgia",
+  "LABEL_FR": "Géorgie",
+  "LABEL_SP": "Georgia",
+  "Lattitude": "42.1690379193",
+  "Longitude": "43.5070595604"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea6"
+  },
+  "ISO2_CODE": "CV",
+  "ISO3_CODE": "CPV",
+  "LABEL_EN": "Cape Verde",
+  "LABEL_FR": "Cap-Vert",
+  "LABEL_SP": "Cabo Verde",
+  "Lattitude": "15.9374673653",
+  "Longitude": "-23.9647310845"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea7"
+  },
+  "ISO2_CODE": "CS",
+  "ISO3_CODE": "SCG",
+  "LABEL_EN": "Serbia and Montenegro",
+  "LABEL_FR": "Serbie-et-Monténégro",
+  "LABEL_SP": "Serbia y Montenegro"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea8"
+  },
+  "ISO2_CODE": "EE",
+  "ISO3_CODE": "EST",
+  "LABEL_EN": "Estonia",
+  "LABEL_FR": "Estonie",
+  "LABEL_SP": "Estonia",
+  "Lattitude": "58.6709781603",
+  "Longitude": "25.5366060242"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ea9"
+  },
+  "ISO2_CODE": "AO",
+  "ISO3_CODE": "AGO",
+  "LABEL_EN": "Angola",
+  "LABEL_FR": "Angola",
+  "LABEL_SP": "Angola",
+  "Lattitude": "-12.2922888126",
+  "Longitude": "17.5369791417"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eaa"
+  },
+  "ISO2_CODE": "DE",
+  "ISO3_CODE": "DEU",
+  "LABEL_EN": "Germany",
+  "LABEL_FR": "Allemagne",
+  "LABEL_SP": "Alemania",
+  "Lattitude": "51.1062734358",
+  "Longitude": "10.3817108727"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eab"
+  },
+  "ISO2_CODE": "UA",
+  "ISO3_CODE": "UKR",
+  "LABEL_EN": "Ukraine",
+  "LABEL_FR": "Ukraine",
+  "LABEL_SP": "Ucrania",
+  "Lattitude": "48.9972191079",
+  "Longitude": "31.386059716"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eac"
+  },
+  "ISO2_CODE": "TV",
+  "ISO3_CODE": "TUV",
+  "LABEL_EN": "Tuvalu",
+  "LABEL_FR": "Tuvalu",
+  "LABEL_SP": "Tuvalu",
+  "Lattitude": "-7.84026042527",
+  "Longitude": "178.602786997"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ead"
+  },
+  "ISO2_CODE": "MU",
+  "ISO3_CODE": "MUS",
+  "LABEL_EN": "Mauritius",
+  "LABEL_FR": "Maurice",
+  "LABEL_SP": "Mauricio",
+  "Lattitude": "-20.1858075358",
+  "Longitude": "57.8502553676"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eae"
+  },
+  "ISO2_CODE": "LT",
+  "ISO3_CODE": "LTU",
+  "LABEL_EN": "Lithuania",
+  "LABEL_FR": "Lituanie",
+  "LABEL_SP": "Lituania",
+  "Lattitude": "55.3270297547",
+  "Longitude": "23.8885032451"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eaf"
+  },
+  "ISO2_CODE": "QA",
+  "ISO3_CODE": "QAT",
+  "LABEL_EN": "Qatar",
+  "LABEL_FR": "Qatar",
+  "LABEL_SP": "Qatar",
+  "Lattitude": "25.3131884548",
+  "Longitude": "51.1865307757"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb0"
+  },
+  "ISO2_CODE": "TH",
+  "ISO3_CODE": "THA",
+  "LABEL_EN": "Thailand",
+  "LABEL_FR": "Thaïlande",
+  "LABEL_SP": "Tailandia",
+  "Lattitude": "15.1144432725",
+  "Longitude": "101.003455746"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb1"
+  },
+  "ISO2_CODE": "FI",
+  "ISO3_CODE": "FIN",
+  "LABEL_EN": "Finland",
+  "LABEL_FR": "Finlande",
+  "LABEL_SP": "Finlandia",
+  "Lattitude": "64.496025362",
+  "Longitude": "26.2713520963"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb2"
+  },
+  "ISO2_CODE": "IL",
+  "ISO3_CODE": "ISR",
+  "LABEL_EN": "Israel",
+  "LABEL_FR": "Israël",
+  "LABEL_SP": "Israel",
+  "Lattitude": "31.4448606644",
+  "Longitude": "34.9964234505"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb3"
+  },
+  "ISO2_CODE": "GM",
+  "ISO3_CODE": "GMB",
+  "LABEL_EN": "Gambia",
+  "LABEL_FR": "Gambie",
+  "LABEL_SP": "Gambia",
+  "Lattitude": "13.4496127102",
+  "Longitude": "-15.3984217921"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb4"
+  },
+  "ISO2_CODE": "AN",
+  "ISO3_CODE": "ANT",
+  "LABEL_EN": "Netherlands Antilles",
+  "LABEL_FR": "Antilles néerlandaises",
+  "LABEL_SP": "Antillas Neerlandesas"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb5"
+  },
+  "ISO2_CODE": "RE",
+  "ISO3_CODE": "REU",
+  "LABEL_EN": "Réunion",
+  "LABEL_FR": "Réunion",
+  "LABEL_SP": "Reunión"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb6"
+  },
+  "ISO2_CODE": "EG",
+  "ISO3_CODE": "EGY",
+  "LABEL_EN": "Egypt",
+  "LABEL_FR": "Egypte",
+  "LABEL_SP": "Egipto",
+  "Lattitude": "26.4931757586",
+  "Longitude": "29.8611742358"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb7"
+  },
+  "ISO2_CODE": "CU",
+  "ISO3_CODE": "CUB",
+  "LABEL_EN": "Cuba",
+  "LABEL_FR": "Cuba",
+  "LABEL_SP": "Cuba",
+  "Lattitude": "21.62531027",
+  "Longitude": "-79.03529044"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb8"
+  },
+  "ISO2_CODE": "Y3",
+  "ISO3_CODE": "YU1",
+  "LABEL_EN": "Yugoslavia, The former Socialist Fed. Rep. of",
+  "LABEL_FR": "Yougoslavie, Ancienne Rép. socialiste de",
+  "LABEL_SP": "Yugoslavia, Antigua Rep. Fed. socialista"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eb9"
+  },
+  "ISO2_CODE": "AU",
+  "ISO3_CODE": "AUS",
+  "LABEL_EN": "Australia",
+  "LABEL_FR": "Australie",
+  "LABEL_SP": "Australia",
+  "Lattitude": "-25.7323831126",
+  "Longitude": "134.491117773"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eba"
+  },
+  "ISO2_CODE": "PL",
+  "ISO3_CODE": "POL",
+  "LABEL_EN": "Poland",
+  "LABEL_FR": "Pologne",
+  "LABEL_SP": "Polonia",
+  "Lattitude": "52.1248371866",
+  "Longitude": "19.3943576278"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ebb"
+  },
+  "ISO2_CODE": "ZW",
+  "ISO3_CODE": "ZWE",
+  "LABEL_EN": "Zimbabwe",
+  "LABEL_FR": "Zimbabwe",
+  "LABEL_SP": "Zimbabwe",
+  "Lattitude": "-19.0027606418",
+  "Longitude": "29.8516462113"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ebc"
+  },
+  "ISO2_CODE": "IS",
+  "ISO3_CODE": "ISL",
+  "LABEL_EN": "Iceland",
+  "LABEL_FR": "Islande",
+  "LABEL_SP": "Islandia",
+  "Lattitude": "64.9981164128",
+  "Longitude": "-18.5967761911"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ebd"
+  },
+  "ISO2_CODE": "M3",
+  "ISO3_CODE": "MY3",
+  "LABEL_EN": "Malaysia: Sarawak",
+  "LABEL_FR": "Malaisie: Sarawak",
+  "LABEL_SP": "Malasia: Sarawak"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ebe"
+  },
+  "ISO2_CODE": "PY",
+  "ISO3_CODE": "PRY",
+  "LABEL_EN": "Paraguay",
+  "LABEL_FR": "Paraguay",
+  "LABEL_SP": "Paraguay",
+  "Lattitude": "-23.2273143012",
+  "Longitude": "-58.3983991485"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ebf"
+  },
+  "ISO2_CODE": "ZA",
+  "ISO3_CODE": "ZAF",
+  "LABEL_EN": "South Africa",
+  "LABEL_FR": "Afrique du Sud",
+  "LABEL_SP": "Sudáfrica",
+  "Lattitude": "-29.001024687",
+  "Longitude": "25.087310262"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec0"
+  },
+  "ISO2_CODE": "CL",
+  "ISO3_CODE": "CHL",
+  "LABEL_EN": "Chile",
+  "LABEL_FR": "Chili",
+  "LABEL_SP": "Chile",
+  "Lattitude": "-37.7346256717",
+  "Longitude": "-71.3627814168"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec1"
+  },
+  "ISO2_CODE": "BJ",
+  "ISO3_CODE": "BEN",
+  "LABEL_EN": "Benin",
+  "LABEL_FR": "Bénin",
+  "LABEL_SP": "Benin",
+  "Lattitude": "9.64190633253",
+  "Longitude": "2.32921274202"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec2"
+  },
+  "ISO2_CODE": "AW",
+  "ISO3_CODE": "ABW",
+  "LABEL_EN": "Aruba",
+  "LABEL_FR": "Aruba",
+  "LABEL_SP": "Aruba",
+  "Lattitude": "12.5176657977",
+  "Longitude": "-69.9747672504"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec3"
+  },
+  "ISO2_CODE": "C1",
+  "ISO3_CODE": "CS1",
+  "LABEL_EN": "Czechoslovakia",
+  "LABEL_FR": "Tchécoslovaquie",
+  "LABEL_SP": "Checoslovaquia"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec4"
+  },
+  "ISO2_CODE": "LK",
+  "ISO3_CODE": "LKA",
+  "LABEL_EN": "Sri Lanka",
+  "LABEL_FR": "Sri Lanka",
+  "LABEL_SP": "Sri Lanka",
+  "Lattitude": "7.61596053702",
+  "Longitude": "80.7029489373"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec5"
+  },
+  "ISO2_CODE": "SI",
+  "ISO3_CODE": "SVN",
+  "LABEL_EN": "Slovenia",
+  "LABEL_FR": "Slovénie",
+  "LABEL_SP": "Eslovenia",
+  "Lattitude": "46.1161834406",
+  "Longitude": "14.8077251029"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec6"
+  },
+  "ISO2_CODE": "SB",
+  "ISO3_CODE": "SLB",
+  "LABEL_EN": "Solomon Islands",
+  "LABEL_FR": "Iles Salomon",
+  "LABEL_SP": "Islas Salomón",
+  "Lattitude": "-8.91107375944",
+  "Longitude": "159.637514734"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec7"
+  },
+  "ISO2_CODE": "MA",
+  "ISO3_CODE": "MAR",
+  "LABEL_EN": "Morocco",
+  "LABEL_FR": "Maroc",
+  "LABEL_SP": "Marruecos",
+  "Lattitude": "29.8417475558",
+  "Longitude": "-8.39640701846"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec8"
+  },
+  "ISO2_CODE": "GG",
+  "ISO3_CODE": "GGY",
+  "LABEL_EN": "Guernsey",
+  "LABEL_FR": "Guernesey",
+  "LABEL_SP": "Guernesey",
+  "Lattitude": "49.4774717256",
+  "Longitude": "-2.54060746535"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ec9"
+  },
+  "ISO2_CODE": "MQ",
+  "ISO3_CODE": "MTQ",
+  "LABEL_EN": "Martinique",
+  "LABEL_FR": "Martinique",
+  "LABEL_SP": "Martinica"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eca"
+  },
+  "ISO2_CODE": "DO",
+  "ISO3_CODE": "DOM",
+  "LABEL_EN": "Dominican Republic",
+  "LABEL_FR": "République dominicaine",
+  "LABEL_SP": "República Dominicana",
+  "Lattitude": "18.8960527207",
+  "Longitude": "-70.4965672754"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ecb"
+  },
+  "ISO2_CODE": "MC",
+  "ISO3_CODE": "MCO",
+  "LABEL_EN": "Monaco",
+  "LABEL_FR": "Monaco",
+  "LABEL_SP": "Mónaco",
+  "Lattitude": "43.7388941238",
+  "Longitude": "7.39939980518"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ecc"
+  },
+  "ISO2_CODE": "GP",
+  "ISO3_CODE": "GLP",
+  "LABEL_EN": "Guadeloupe",
+  "LABEL_FR": "Guadeloupe",
+  "LABEL_SP": "Guadalupe"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ecd"
+  },
+  "ISO2_CODE": "NC",
+  "ISO3_CODE": "NCL",
+  "LABEL_EN": "New Caledonia",
+  "LABEL_FR": "Nouvelle-Calédonie",
+  "LABEL_SP": "Nueva Caledonia",
+  "Lattitude": "-21.3044620868",
+  "Longitude": "165.703585853"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ece"
+  },
+  "ISO2_CODE": "LU",
+  "ISO3_CODE": "LUX",
+  "LABEL_EN": "Luxembourg",
+  "LABEL_FR": "Luxembourg",
+  "LABEL_SP": "Luxemburgo",
+  "Lattitude": "49.7668555991",
+  "Longitude": "6.07223192937"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ecf"
+  },
+  "ISO2_CODE": "IT",
+  "ISO3_CODE": "ITA",
+  "LABEL_EN": "Italy",
+  "LABEL_FR": "Italie",
+  "LABEL_SP": "Italia",
+  "Lattitude": "42.7864450125",
+  "Longitude": "12.0723891753"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed0"
+  },
+  "ISO2_CODE": "GY",
+  "ISO3_CODE": "GUY",
+  "LABEL_EN": "Guyana",
+  "LABEL_FR": "Guyana",
+  "LABEL_SP": "Guyana",
+  "Lattitude": "4.79385162798",
+  "Longitude": "-58.9801364944"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed1"
+  },
+  "ISO2_CODE": "UZ",
+  "ISO3_CODE": "UZB",
+  "LABEL_EN": "Uzbekistan",
+  "LABEL_FR": "Ouzbékistan",
+  "LABEL_SP": "Uzbekistán",
+  "Lattitude": "41.7554735142",
+  "Longitude": "63.1405371045"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed2"
+  },
+  "ISO2_CODE": "HK",
+  "ISO3_CODE": "HKG",
+  "LABEL_EN": "Hong Kong, China",
+  "LABEL_FR": "Hong-kong, Chine",
+  "LABEL_SP": "Hong Kong, China",
+  "Lattitude": "22.3840677114",
+  "Longitude": "114.131303733"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed3"
+  },
+  "ISO2_CODE": "LR",
+  "ISO3_CODE": "LBR",
+  "LABEL_EN": "Liberia",
+  "LABEL_FR": "Libéria",
+  "LABEL_SP": "Liberia",
+  "Lattitude": "6.45238198683",
+  "Longitude": "-9.31988198206"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed4"
+  },
+  "ISO2_CODE": "JP",
+  "ISO3_CODE": "JPN",
+  "LABEL_EN": "Japan",
+  "LABEL_FR": "Japon",
+  "LABEL_SP": "Japón",
+  "Lattitude": "37.5526225906",
+  "Longitude": "137.979959508"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed5"
+  },
+  "ISO2_CODE": "AG",
+  "ISO3_CODE": "ATG",
+  "LABEL_EN": "Antigua and Barbuda",
+  "LABEL_FR": "Antigua-et-Barbuda",
+  "LABEL_SP": "Antigua y Barbuda",
+  "Lattitude": "17.2828237433",
+  "Longitude": "-61.7915278348"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed6"
+  },
+  "ISO2_CODE": "JE",
+  "ISO3_CODE": "JEY",
+  "LABEL_EN": "Jersey",
+  "LABEL_FR": "Jersey",
+  "LABEL_SP": "Jersey",
+  "Lattitude": "49.2209848181",
+  "Longitude": "-2.12560781432"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed7"
+  },
+  "ISO2_CODE": "JM",
+  "ISO3_CODE": "JAM",
+  "LABEL_EN": "Jamaica",
+  "LABEL_FR": "Jamaïque",
+  "LABEL_SP": "Jamaica",
+  "Lattitude": "18.1551953465",
+  "Longitude": "-77.3189142295"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed8"
+  },
+  "ISO2_CODE": "SH",
+  "ISO3_CODE": "SHN",
+  "LABEL_EN": "Saint Helena",
+  "LABEL_FR": "Sainte-Hélène",
+  "LABEL_SP": "Santa Elena",
+  "Lattitude": "-24.6933346806",
+  "Longitude": "-10.1809053332"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ed9"
+  },
+  "ISO2_CODE": "NR",
+  "ISO3_CODE": "NRU",
+  "LABEL_EN": "Nauru",
+  "LABEL_FR": "Nauru",
+  "LABEL_SP": "Nauru",
+  "Lattitude": "-0.52015915404",
+  "Longitude": "166.932472001"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eda"
+  },
+  "ISO2_CODE": "AF",
+  "ISO3_CODE": "AFG",
+  "LABEL_EN": "Afghanistan",
+  "LABEL_FR": "Afghanistan",
+  "LABEL_SP": "Afganistán",
+  "Lattitude": "33.8364489128",
+  "Longitude": "66.0087623043"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8edb"
+  },
+  "ISO2_CODE": "RS",
+  "ISO3_CODE": "SRB",
+  "LABEL_EN": "Serbia",
+  "LABEL_FR": "Serbie",
+  "LABEL_SP": "Serbia",
+  "Lattitude": "44.221300008",
+  "Longitude": "20.7902937118"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8edc"
+  },
+  "ISO2_CODE": "BY",
+  "ISO3_CODE": "BLR",
+  "LABEL_EN": "Belarus",
+  "LABEL_FR": "Bélarus",
+  "LABEL_SP": "Belarús",
+  "Lattitude": "53.5316917941",
+  "Longitude": "28.0333167556"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8edd"
+  },
+  "ISO2_CODE": "MX",
+  "ISO3_CODE": "MEX",
+  "LABEL_EN": "Mexico",
+  "LABEL_FR": "Mexique",
+  "LABEL_SP": "México",
+  "Lattitude": "23.9489236523",
+  "Longitude": "-102.53036366"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ede"
+  },
+  "ISO2_CODE": "RW",
+  "ISO3_CODE": "RWA",
+  "LABEL_EN": "Rwanda",
+  "LABEL_FR": "Rwanda",
+  "LABEL_SP": "Rwanda",
+  "Lattitude": "-1.99277319942",
+  "Longitude": "29.9188561928"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8edf"
+  },
+  "ISO2_CODE": "ID",
+  "ISO3_CODE": "IDN",
+  "LABEL_EN": "Indonesia",
+  "LABEL_FR": "Indonésie",
+  "LABEL_SP": "Indonesia",
+  "Lattitude": "-2.22275260271",
+  "Longitude": "117.268941687"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee0"
+  },
+  "ISO2_CODE": "KE",
+  "ISO3_CODE": "KEN",
+  "LABEL_EN": "Kenya",
+  "LABEL_FR": "Kenya",
+  "LABEL_SP": "Kenya",
+  "Lattitude": "0.550735388524",
+  "Longitude": "37.8221204959"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee1"
+  },
+  "ISO2_CODE": "GT",
+  "ISO3_CODE": "GTM",
+  "LABEL_EN": "Guatemala",
+  "LABEL_FR": "Guatemala",
+  "LABEL_SP": "Guatemala",
+  "Lattitude": "15.6959794459",
+  "Longitude": "-90.3597132732"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee2"
+  },
+  "ISO2_CODE": "TL",
+  "ISO3_CODE": "TLS",
+  "LABEL_EN": "Timor-Leste",
+  "LABEL_FR": "Timor-Leste",
+  "LABEL_SP": "Timor-Leste",
+  "Lattitude": "-8.8233219641",
+  "Longitude": "125.85227581"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee3"
+  },
+  "ISO2_CODE": "TC",
+  "ISO3_CODE": "TCA",
+  "LABEL_EN": "Turks and Caicos Islands",
+  "LABEL_FR": "Iles Turques et Caïques",
+  "LABEL_SP": "Islas Turcos y Caicos",
+  "Lattitude": "21.7821634171",
+  "Longitude": "-71.8817069548"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee4"
+  },
+  "ISO2_CODE": "BE",
+  "ISO3_CODE": "BEL",
+  "LABEL_EN": "Belgium",
+  "LABEL_FR": "Belgique",
+  "LABEL_SP": "Bélgica",
+  "Lattitude": "50.6375465936",
+  "Longitude": "4.63966996313"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee5"
+  },
+  "ISO2_CODE": "OM",
+  "ISO3_CODE": "OMN",
+  "LABEL_EN": "Oman",
+  "LABEL_FR": "Oman",
+  "LABEL_SP": "Omán",
+  "Lattitude": "20.60210016",
+  "Longitude": "56.0925824468"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee6"
+  },
+  "ISO2_CODE": "VN",
+  "ISO3_CODE": "VNM",
+  "LABEL_EN": "Viet Nam",
+  "LABEL_FR": "Viet Nam",
+  "LABEL_SP": "Viet Nam",
+  "Lattitude": "16.6428226166",
+  "Longitude": "106.301132488"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee7"
+  },
+  "ISO2_CODE": "PS",
+  "ISO3_CODE": "PSE",
+  "LABEL_EN": "West Bank and Gaza Strip",
+  "LABEL_FR": "Rive occidentale et Bande de Gaza",
+  "LABEL_SP": "Ribera occidental y Faja de Gaza"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee8"
+  },
+  "ISO2_CODE": "UG",
+  "ISO3_CODE": "UGA",
+  "LABEL_EN": "Uganda",
+  "LABEL_FR": "Ouganda",
+  "LABEL_SP": "Uganda",
+  "Lattitude": "1.27575775615",
+  "Longitude": "32.3669969147"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ee9"
+  },
+  "ISO2_CODE": "NA",
+  "ISO3_CODE": "NAM",
+  "LABEL_EN": "Namibia",
+  "LABEL_FR": "Namibie",
+  "LABEL_SP": "Namibia",
+  "Lattitude": "-22.1284335852",
+  "Longitude": "17.211333564"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eea"
+  },
+  "ISO2_CODE": "ME",
+  "ISO3_CODE": "MNE",
+  "LABEL_EN": "Montenegro",
+  "LABEL_FR": "Monténégro",
+  "LABEL_SP": "Montenegro",
+  "Lattitude": "42.785696291",
+  "Longitude": "19.23871376"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eeb"
+  },
+  "ISO2_CODE": "BD",
+  "ISO3_CODE": "BGD",
+  "LABEL_EN": "Bangladesh",
+  "LABEL_FR": "Bangladesh",
+  "LABEL_SP": "Bangladesh",
+  "Lattitude": "23.8455777203",
+  "Longitude": "90.2419424062"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eec"
+  },
+  "ISO2_CODE": "KM",
+  "ISO3_CODE": "COM",
+  "LABEL_EN": "Comoros",
+  "LABEL_FR": "Comores",
+  "LABEL_SP": "Comoras",
+  "Lattitude": "-11.8838077876",
+  "Longitude": "43.6794188795"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eed"
+  },
+  "ISO2_CODE": "AD",
+  "ISO3_CODE": "AND",
+  "LABEL_EN": "Andorra",
+  "LABEL_FR": "Andorre",
+  "LABEL_SP": "Andorra",
+  "Lattitude": "42.5423528314",
+  "Longitude": "1.56130102941"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eee"
+  },
+  "ISO2_CODE": "AI",
+  "ISO3_CODE": "AIA",
+  "LABEL_EN": "Anguilla",
+  "LABEL_FR": "Anguilla",
+  "LABEL_SP": "Anguilla",
+  "Lattitude": "18.224869546",
+  "Longitude": "-63.0600473989"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eef"
+  },
+  "ISO2_CODE": "US",
+  "ISO3_CODE": "USA",
+  "LABEL_EN": "United States",
+  "LABEL_FR": "Etats-Unis",
+  "LABEL_SP": "Estados Unidos",
+  "Lattitude": "45.6875333395",
+  "Longitude": "-112.494333916"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef0"
+  },
+  "ISO2_CODE": "GN",
+  "ISO3_CODE": "GIN",
+  "LABEL_EN": "Guinea",
+  "LABEL_FR": "Guinée",
+  "LABEL_SP": "Guinea",
+  "Lattitude": "10.4346600847",
+  "Longitude": "-10.9426023656"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef1"
+  },
+  "ISO2_CODE": "CG",
+  "ISO3_CODE": "COG",
+  "LABEL_EN": "Congo",
+  "LABEL_FR": "Congo",
+  "LABEL_SP": "Congo",
+  "Lattitude": "-0.83889714404",
+  "Longitude": "15.2180878602"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef2"
+  },
+  "ISO2_CODE": "GH",
+  "ISO3_CODE": "GHA",
+  "LABEL_EN": "Ghana",
+  "LABEL_FR": "Ghana",
+  "LABEL_SP": "Ghana",
+  "Lattitude": "7.95354676949",
+  "Longitude": "-1.21649642233"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef3"
+  },
+  "ISO2_CODE": "GB",
+  "ISO3_CODE": "GBR",
+  "LABEL_EN": "United Kingdom",
+  "LABEL_FR": "Royaume-Uni",
+  "LABEL_SP": "Reino Unido",
+  "Lattitude": "54.1454903122",
+  "Longitude": "-2.88594273633"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef4"
+  },
+  "ISO2_CODE": "LI",
+  "ISO3_CODE": "LIE",
+  "LABEL_EN": "Liechtenstein",
+  "LABEL_FR": "Liechtenstein",
+  "LABEL_SP": "Liechtenstein",
+  "Lattitude": "47.1378619173",
+  "Longitude": "9.54116129617"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef5"
+  },
+  "ISO2_CODE": "PM",
+  "ISO3_CODE": "SPM",
+  "LABEL_EN": "Saint Pierre and Miquelon",
+  "LABEL_FR": "Saint-Pierre-et-Miquelon",
+  "LABEL_SP": "San Pedro y Miquelón",
+  "Lattitude": "46.9322291441",
+  "Longitude": "-56.3083720391"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef6"
+  },
+  "ISO2_CODE": "LC",
+  "ISO3_CODE": "LCA",
+  "LABEL_EN": "Saint Lucia",
+  "LABEL_FR": "Sainte-Lucie",
+  "LABEL_SP": "Santa Lucía",
+  "Lattitude": "13.902699993",
+  "Longitude": "-60.9705395552"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef7"
+  },
+  "ISO2_CODE": "TO",
+  "ISO3_CODE": "TON",
+  "LABEL_EN": "Tonga",
+  "LABEL_FR": "Tonga",
+  "LABEL_SP": "Tonga",
+  "Lattitude": "-20.0705280804",
+  "Longitude": "-174.872535332"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef8"
+  },
+  "ISO2_CODE": "MK",
+  "ISO3_CODE": "MKD",
+  "LABEL_EN": "Macedonia, The former Yugoslav Rep. of",
+  "LABEL_FR": "Macédoine, Ex-Rép. yougoslave de",
+  "LABEL_SP": "Macedonia, Ex Rep. Yugoslava de",
+  "Lattitude": "41.5948948332",
+  "Longitude": "21.683956725"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8ef9"
+  },
+  "ISO2_CODE": "TT",
+  "ISO3_CODE": "TTO",
+  "LABEL_EN": "Trinidad and Tobago",
+  "LABEL_FR": "Trinité-et-Tobago",
+  "LABEL_SP": "Trinidad y Tabago",
+  "Lattitude": "10.4682272722",
+  "Longitude": "-61.2588799175"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8efa"
+  },
+  "ISO2_CODE": "CK",
+  "ISO3_CODE": "COK",
+  "LABEL_EN": "Cook Islands",
+  "LABEL_FR": "Iles Cook",
+  "LABEL_SP": "Islas Cook",
+  "Lattitude": "-19.8687679623",
+  "Longitude": "-158.801766392"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8efb"
+  },
+  "ISO2_CODE": "BF",
+  "ISO3_CODE": "BFA",
+  "LABEL_EN": "Burkina Faso",
+  "LABEL_FR": "Burkina Faso",
+  "LABEL_SP": "Burkina Faso",
+  "Lattitude": "12.2695677876",
+  "Longitude": "-1.75515034"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8efc"
+  },
+  "ISO2_CODE": "VI",
+  "ISO3_CODE": "VIR",
+  "LABEL_EN": "Virgin Islands (US)",
+  "LABEL_FR": "Iles Vierges américaines",
+  "LABEL_SP": "Islas Vírgenes (EE.UU.)",
+  "Lattitude": "17.9731771556",
+  "Longitude": "-64.7975825297"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8efd"
+  },
+  "ISO2_CODE": "Y2",
+  "ISO3_CODE": "YE2",
+  "LABEL_EN": "Yemen, The former Democratic",
+  "LABEL_FR": "Yémen, Ancien Yémen démocratique",
+  "LABEL_SP": "Yemen, Antiguo Yemen democrático"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8efe"
+  },
+  "ISO2_CODE": "HR",
+  "ISO3_CODE": "HRV",
+  "LABEL_EN": "Croatia",
+  "LABEL_FR": "Croatie",
+  "LABEL_SP": "Croacia",
+  "Lattitude": "45.0684270744",
+  "Longitude": "16.3978320054"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8eff"
+  },
+  "ISO2_CODE": "GR",
+  "ISO3_CODE": "GRC",
+  "LABEL_EN": "Greece",
+  "LABEL_FR": "Grèce",
+  "LABEL_SP": "Grecia",
+  "Lattitude": "39.0516315876",
+  "Longitude": "22.9734385798"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f00"
+  },
+  "ISO2_CODE": "CR",
+  "ISO3_CODE": "CRI",
+  "LABEL_EN": "Costa Rica",
+  "LABEL_FR": "Costa Rica",
+  "LABEL_SP": "Costa Rica",
+  "Lattitude": "9.97332729645",
+  "Longitude": "-84.193292649"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f01"
+  },
+  "ISO2_CODE": "VC",
+  "ISO3_CODE": "VCT",
+  "LABEL_EN": "Saint Vincent and the Grenadines",
+  "LABEL_FR": "Saint-Vincent-et-les Grenadines",
+  "LABEL_SP": "San Vicente y las Granadinas",
+  "Lattitude": "13.2170996606",
+  "Longitude": "-61.2026948357"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f02"
+  },
+  "ISO2_CODE": "MR",
+  "ISO3_CODE": "MRT",
+  "LABEL_EN": "Mauritania",
+  "LABEL_FR": "Mauritanie",
+  "LABEL_SP": "Mauritania",
+  "Lattitude": "20.256790923",
+  "Longitude": "-10.3435353439"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f03"
+  },
+  "ISO2_CODE": "DK",
+  "ISO3_CODE": "DNK",
+  "LABEL_EN": "Denmark",
+  "LABEL_FR": "Danemark",
+  "LABEL_SP": "Dinamarca",
+  "Lattitude": "55.9659213307",
+  "Longitude": "10.0502290036"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f04"
+  },
+  "ISO2_CODE": "TG",
+  "ISO3_CODE": "TGO",
+  "LABEL_EN": "Togo",
+  "LABEL_FR": "Togo",
+  "LABEL_SP": "Togo",
+  "Lattitude": "8.52650737986",
+  "Longitude": "0.962524955848"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f05"
+  },
+  "ISO2_CODE": "LV",
+  "ISO3_CODE": "LVA",
+  "LABEL_EN": "Latvia",
+  "LABEL_FR": "Lettonie",
+  "LABEL_SP": "Letonia",
+  "Lattitude": "56.8520035624",
+  "Longitude": "24.9079168191"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f06"
+  },
+  "ISO2_CODE": "AM",
+  "ISO3_CODE": "ARM",
+  "LABEL_EN": "Armenia",
+  "LABEL_FR": "Arménie",
+  "LABEL_SP": "Armenia",
+  "Lattitude": "40.2881475184",
+  "Longitude": "44.9321167362"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f07"
+  },
+  "ISO2_CODE": "GU",
+  "ISO3_CODE": "GUM",
+  "LABEL_EN": "Guam",
+  "LABEL_FR": "Guam",
+  "LABEL_SP": "Guam",
+  "Lattitude": "13.443095422",
+  "Longitude": "144.770773628"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f08"
+  },
+  "ISO2_CODE": "GD",
+  "ISO3_CODE": "GRD",
+  "LABEL_EN": "Grenada",
+  "LABEL_FR": "Grenade",
+  "LABEL_SP": "Granada",
+  "Lattitude": "12.1519285645",
+  "Longitude": "-61.6574851042"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f09"
+  },
+  "ISO2_CODE": "LS",
+  "ISO3_CODE": "LSO",
+  "LABEL_EN": "Lesotho",
+  "LABEL_FR": "Lesotho",
+  "LABEL_SP": "Lesotho",
+  "Lattitude": "-29.5798587816",
+  "Longitude": "28.2284419379"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f0a"
+  },
+  "ISO2_CODE": "IQ",
+  "ISO3_CODE": "IRQ",
+  "LABEL_EN": "Iraq",
+  "LABEL_FR": "Iraq",
+  "LABEL_SP": "Iraq",
+  "Lattitude": "33.0397448476",
+  "Longitude": "43.7446739676"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f0b"
+  },
+  "ISO2_CODE": "ES",
+  "ISO3_CODE": "ESP",
+  "LABEL_EN": "Spain",
+  "LABEL_FR": "Espagne",
+  "LABEL_SP": "España",
+  "Lattitude": "40.2274328729",
+  "Longitude": "-3.65226540732"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f0c"
+  },
+  "ISO2_CODE": "SU",
+  "ISO3_CODE": "URS",
+  "LABEL_EN": "USSR",
+  "LABEL_FR": "URSS",
+  "LABEL_SP": "URSS"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f0d"
+  },
+  "ISO2_CODE": "KR",
+  "ISO3_CODE": "KOR",
+  "LABEL_EN": "Korea, Republic of",
+  "LABEL_FR": "Corée, République de",
+  "LABEL_SP": "Corea, República de",
+  "Lattitude": "36.3740505763",
+  "Longitude": "127.819686447"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f0e"
+  },
+  "ISO2_CODE": "MD",
+  "ISO3_CODE": "MDA",
+  "LABEL_EN": "Moldova, Republic of",
+  "LABEL_FR": "Moldova, République de",
+  "LABEL_SP": "Moldova, República de",
+  "Lattitude": "47.1950678079",
+  "Longitude": "28.4611524643"
+},{
+  "_id": {
+    "$oid": "5ee7abc368ab7f0ec43a8f0f"
+  },
+  "ISO2_CODE": "KI",
+  "ISO3_CODE": "KIR",
+  "LABEL_EN": "Kiribati",
+  "LABEL_FR": "Kiribati",
+  "LABEL_SP": "Kiribati",
+  "Lattitude": "0.645568622358",
+  "Longitude": "-52.4190970754"
+}]
